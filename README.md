@@ -66,15 +66,4 @@ This is a TSV file containing data on Airbnb host names and review dates.
 - **`host_name`**: name of listing host
 24
 - **`last_review`**: date when the listing was last reviewed
-1
-# Import necessary packages
-2
-import pandas as pd
-3
-import numpy as np
-4
-​
-5
-# Begin coding here ...
-6
-# Use as many cells as you like
+
